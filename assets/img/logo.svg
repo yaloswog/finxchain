@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="771" height="208" viewBox="0 0 771 208">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 133.333px;
+        fill: #fff;
+        font-family: Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #71de98;
+      }
+    </style>
+  </defs>
+  <text id="FINXCHAIN" class="cls-1" x="13.258" y="151.079">FIN<tspan class="cls-2">X</tspan>CHAIN</text>
+</svg>
